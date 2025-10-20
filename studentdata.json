@@ -1,0 +1,8 @@
+{
+  "students": [
+    {
+      "name": "mohamed ali",
+      "password_hash": "$2b$12$examplepasswordhash..."
+    }
+  ]
+}
