@@ -1,1 +1,8 @@
-//lf
+{
+  "students": [
+    {
+      "name": "test_user",
+      "password_hash": "$2b$12$abc123examplehash456xyz890"
+    }
+  ]
+}
