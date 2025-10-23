@@ -7,6 +7,10 @@
         {
             "name": "aissaoui",
             "password_hash": "$2b$12$pOHPh7CeaHhfrReE/Vt/8O1QQbed/V4xwWUKNYgKJ9tXzd47qDrJm"
+        },
+        {
+            "name": "aissaoui",
+            "password_hash": "$2b$12$ZC2fICCY1M6caLqmeMAKNezAcPr0eHd1asxjIfmbfVlxqERaE93FK"
         }
     ]
 }
