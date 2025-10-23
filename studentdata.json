@@ -3,6 +3,10 @@
         {
             "name": "aissaoui",
             "password_hash": "$2b$12$6J9oo/TGKxZUGi9BiOAqCe.BzIFYgIaabYSKNxd2V8s/uiEBrEr/i"
+        },
+        {
+            "name": "aissaoui",
+            "password_hash": "$2b$12$pOHPh7CeaHhfrReE/Vt/8O1QQbed/V4xwWUKNYgKJ9tXzd47qDrJm"
         }
     ]
 }
