@@ -1,6 +1,16 @@
 {
     "students": [
-        
+        {
+            "id": "925000001",
+            "username": "m",
+            "mp": "$2b$12$duZJKk7TtrnnypHxvHL2quOAcppsQ71LKjMSC0.raR8GAki1zaEvK",
+            "type": "prof"
+        },
+        {
+            "id": "25090001",
+            "username": "aissaoui",
+            "mp": "$2b$12$NWfIpeEJWyyCAhBHBuQBE.eROBN6VQyjhP9MBuBhIaNpKoYFtxUuy",
+            "type": "eleve"
+        }
     ]
-
 }
