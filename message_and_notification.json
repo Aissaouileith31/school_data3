@@ -1,5 +1,0 @@
-[
-  { "sender": "Admin", "receiver": "aissaoui", "text": "Welcome to Archemede School!" },
-  { "sender": "Teacher", "receiver": "aissaoui", "text": "Tomorrow’s class will start at 8:30." },
-  { "sender": "aissaoui", "receiver": "Teacher", "text": "Got it, thank you!" }
-]
