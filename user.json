@@ -11,6 +11,12 @@
             "username": "aissaoui",
             "mp": "$2b$12$NWfIpeEJWyyCAhBHBuQBE.eROBN6VQyjhP9MBuBhIaNpKoYFtxUuy",
             "type": "eleve"
+        },
+        {
+            "id": "25000001",
+            "username": "jix",
+            "mp": "$2b$12$buzMf5XeOsK4MVIdxNpMb.ZQeOOGhXO/SZ2lqEt6IlfeHtT5c27pu",
+            "type": "eleve"
         }
     ]
 }
