@@ -302,5 +302,13 @@
         "type_de_message": "observation",
         "date": "19/12/2025 19:30",
         "message": "12345649865gfgfgd"
+    },
+    {
+        "receiver": "jix",
+        "id": 25000001,
+        "nom_complet": "leith jix",
+        "type_de_message": "observation",
+        "date": "19/12/2025 19:43",
+        "message": "test test system notification 12"
     }
 ]
