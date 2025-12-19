@@ -1,3 +1,28 @@
 [
-
+    {
+        "nom": "leith",
+        "resiver_user": "aissaoui",
+        "resiver_id": 25090001,
+        "matier": "LY1_arabic",
+        "jour": "Mercredi",
+        "debu": "13:00",
+        "fin": "15:00",
+        "date_de_iscription": "2025-11-19",
+        "nbr_cour": 3,
+        "expire": 0,
+        "creneau_id": "1_A_15_LY1_arabic_Vendredi_1300"
+    },
+    {
+        "nom": "leith",
+        "resiver_user": "aissaoui",
+        "resiver_id": 25090001,
+        "matier": "LY1_arabic",
+        "jour": "Vendredi",
+        "debu": "08:03",
+        "fin": "11:00",
+        "date_de_iscription": "2025-11-21",
+        "nbr_cour": 3,
+        "expire": 0,
+        "creneau_id": "1_A_15_P1_arabic_Vendredi_1300"
+    }
 ]
