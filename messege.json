@@ -326,5 +326,13 @@
         "type_de_message": "observation",
         "date": "19/12/2025 21:16",
         "message": "qq"
+    },
+    {
+        "receiver": "jix",
+        "id": 25000001,
+        "nom_complet": "leith jix",
+        "type_de_message": "observation",
+        "date": "20/12/2025 11:31",
+        "message": "notification test"
     }
 ]
