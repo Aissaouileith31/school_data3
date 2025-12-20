@@ -17,6 +17,18 @@
             "username": "jix",
             "mp": "$2b$12$buzMf5XeOsK4MVIdxNpMb.ZQeOOGhXO/SZ2lqEt6IlfeHtT5c27pu",
             "type": "eleve"
+        },
+        {
+            "id": "25000002",
+            "username": "xvc",
+            "mp": "$2b$12$oxku60wj4zKRRGFMI.1bJ.DcGlrGM2lbCwAdtWV.4SORzMpa7z6pK",
+            "type": "eleve"
+        },
+        {
+            "id": "25000003",
+            "username": "vg",
+            "mp": "$2b$12$dU77DsbtOGii/CHP82ObDeBxsPmHofACvboTU7DFLFnNsMDR/SX4K",
+            "type": "eleve"
         }
     ]
 }
