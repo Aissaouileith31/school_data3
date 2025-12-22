@@ -342,5 +342,13 @@
         "type_de_message": "norm message",
         "date": "22/12/2025 11:42",
         "message": "vous aver ete ajouter a le crenau de pyz verifier les crenau page"
+    },
+    {
+        "receiver": "admin",
+        "id": 25000001,
+        "nom_complet": "admin",
+        "type_de_message": "observation",
+        "date": "2025-12-22 11:47:05",
+        "message": "vous ave marke absent on 2025-12-22 pour le crenau d'jourdui."
     }
 ]
