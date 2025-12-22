@@ -440,5 +440,18 @@
         "nbr_cour": 3,
         "expire": 0,
         "creneau_id": "TRA_2_50_LY2_math_Samedi_1400"
+    },
+    {
+        "nom": "admin",
+        "resiver_user": "admin",
+        "resiver_id": 25000001,
+        "matier": "LY3_phys",
+        "jour": "Lundi",
+        "debu": "10:00",
+        "fin": "10:50",
+        "date_de_iscription": "2025-12-22",
+        "nbr_cour": 4,
+        "expire": 0,
+        "creneau_id": "POI_1_30_C1_phys_Lundi_0000"
     }
 ]
