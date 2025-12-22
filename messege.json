@@ -286,5 +286,53 @@
         "type_de_message": "norm message",
         "date": "21/12/2025 21:27",
         "message": "bienvenuu dans notre nouvaux application"
+    },
+    {
+        "receiver": "admin",
+        "id": "25000001",
+        "nom_complet": "admin",
+        "type_de_message": "bienvenu",
+        "date": "21/12/2025 21:52",
+        "message": "bienvenu a Archemede school"
+    },
+    {
+        "receiver": "admin",
+        "id": 25000001,
+        "nom_complet": "admin admin",
+        "type_de_message": "observation",
+        "date": "22/12/2025 10:48",
+        "message": "voua avaise ajoute au creanu de phyzic"
+    },
+    {
+        "receiver": "admin",
+        "id": 25000001,
+        "nom_complet": "admin",
+        "type_de_message": "observation",
+        "date": "2025-12-22 10:49:29",
+        "message": "vous ave marke absent on 2025-12-22 pour le crenau d'jourdui."
+    },
+    {
+        "receiver": "admin",
+        "id": 25000001,
+        "nom_complet": "admin admin",
+        "type_de_message": "observation",
+        "date": "22/12/2025 10:51",
+        "message": "suprime"
+    },
+    {
+        "receiver": "admin",
+        "id": 25000001,
+        "nom_complet": "admin admin",
+        "type_de_message": "observation",
+        "date": "22/12/2025 11:26",
+        "message": "ajouter"
+    },
+    {
+        "receiver": "admin",
+        "id": 25000001,
+        "nom_complet": "admin admin",
+        "type_de_message": "observation",
+        "date": "22/12/2025 11:27",
+        "message": "suprimer"
     }
 ]
