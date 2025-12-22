@@ -209,6 +209,12 @@
             "username": "yacine",
             "mp": "$2b$12$p85.Skr6FzC7eXoD1.MN.ebp2vO8fVKnJDesJzjYJgCXVt6pLQ59O",
             "type": "eleve"
+        },
+        {
+            "id": "25000001",
+            "username": "admin",
+            "mp": "$2b$12$t1P2REjLgoZAlzaVpXAVpO9siReI0ICeZ.SrX1fJYrB5whn5rxyVW",
+            "type": "eleve"
         }
     ]
 }
