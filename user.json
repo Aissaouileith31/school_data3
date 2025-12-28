@@ -152,7 +152,7 @@
         },
         {
             "id": "25090006",
-            "username": "leith",
+            "username": "lait",
             "mp": "$2b$12$4HiK5K/zl6DCPjqidPXJA.VBElL2zHhY9AzGKsgrdxM4YmDMsBIWW",
             "type": "eleve"
         },
@@ -263,6 +263,18 @@
             "username": "rafik",
             "mp": "$2b$12$OF/ilQk5d6kxRCygQK07jugbRiOTUrfO3EQhNAD5mjE.a59fMgX7m",
             "type": "prof"
+        },
+        {
+            "id": "25090010",
+            "username": "mouhamed",
+            "mp": "$2b$12$XRCCVfF3.n6Ruzw1SVTt9uxlBuqJk6nnWCPVRZ/r7NNxpXt0nHiwG",
+            "type": "eleve"
+        },
+        {
+            "id": "25080022",
+            "username": "kaoutar",
+            "mp": "$2b$12$I4FD/zEGABwWcjyvq8t1pu1DrhQtEZxy7yj.u04jnAy/PuB6CNnwu",
+            "type": "eleve"
         }
     ]
 }
