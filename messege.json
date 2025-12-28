@@ -574,5 +574,13 @@
         "type_de_message": "observation",
         "date": "28/12/2025 15:16",
         "message": "sdtf"
+    },
+    {
+        "receiver": "all",
+        "id": "all",
+        "nom_complet": "all",
+        "type_de_message": "observation",
+        "date": "28/12/2025 15:16",
+        "message": "jg"
     }
 ]
